@@ -8,13 +8,11 @@
 
 - 🔭 I’m currently working on **Mobile app development with Flutter** and **Deep Lerning with Python**
 
-- 🌱 I’m currently learning **Advanced features of the Dart programming language, studying data structures and algorithms. Also, I am focusing on animations and transitions in Flutter to enhance the user interfaces of my applications. Also, I am learning AI, deep learning, machine learning and advanced python.**
+- 🌱 I’m currently learning **Advanced features of the Dart programming language, studying data structures and algorithms. Also, I am focusing on animations and transitions in Flutter to enhance the user interfaces of my applications. Also, I am learning AI, Deep Learning, Machine Learning and Advanced Python**
 
 - 🤝 I’m looking for help with **UI/UX design**
 
-- 📝 I regularly write articles on [https://medium.com/@ihakkikemikli](https://medium.com/@ihakkikemikli)
-
-- 💬 Ask me about **Mobile Development**
+- 💬 Ask me about **Mobile Development and Artifical Intelligence**
 
 - ⚡ Fun fact **My creativity peaks at midnight, absorbing information fast and letting it slip away just as quickly.**
 
