@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailhakkii&label=Profile%20views&color=0e75b6&style=flat" alt="ismailhakkii" /> </p>
 
-- 🔭 I’m currently working on **Mobile app development with Flutter**
+- 🔭 I’m currently working on **Mobile app development with Flutter** and **Deep Lerning with Python**
 
-- 🌱 I’m currently learning **Advanced features of the Dart programming language, studying data structures and algorithms. Also, I am focusing on animations and transitions in Flutter to enhance the user interfaces of my applications.**
+- 🌱 I’m currently learning **Advanced features of the Dart programming language, studying data structures and algorithms. Also, I am focusing on animations and transitions in Flutter to enhance the user interfaces of my applications. Also, I am learning AI, deep learning, machine learning and advanced python.**
 
 - 🤝 I’m looking for help with **UI/UX design**
 
